@@ -1,0 +1,1 @@
+-- int foreign key references Методы_изучения(Код_метода),
